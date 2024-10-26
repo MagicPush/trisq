@@ -1,0 +1,25 @@
+{
+    "name": "magic-push/trisq",
+    "type": "project",
+    "require": {
+        "php": ">=7.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MagicPush\\GoGame\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "MagicPush\\GoGame\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kirill Ulanovskii",
+            "email": "xerxes.home@gmail.com",
+            "homepage": "https://github.com/MagicPush"
+        }
+    ]
+}

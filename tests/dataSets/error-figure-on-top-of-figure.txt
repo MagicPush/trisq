@@ -1,0 +1,2 @@
+f8 g8 h8 f8
+error

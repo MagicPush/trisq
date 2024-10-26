@@ -1,0 +1,11 @@
+<phpunit
+  bootstrap="vendor/autoload.php"
+  cacheResult="false"
+  columns="24"
+>
+<testsuites>
+  <testsuite name="Main">
+    <file>tests/BoardTest.php</file>
+  </testsuite>
+</testsuites>
+</phpunit>
