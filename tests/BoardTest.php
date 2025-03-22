@@ -54,7 +54,7 @@ class BoardTest extends TestCaseAbstract {
     /**
      * @group task2
      */
-    public function testNoSuicideSquareCornered() {
-        $this->testFile(__DIR__ . '/dataSets/error-suicide-square-cornered.txt');
+    public function testNoSelfCaptureSquareCornered() {
+        $this->testFile(__DIR__ . '/dataSets/error-self-capture-square-cornered.txt');
     }
 }

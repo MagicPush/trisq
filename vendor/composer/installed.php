@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'magic-push/interview-trisq-alpha',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'name' => 'magic-push/trisq',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '97ae100b76931fbc6a27d9cfdd4414c9902264e1',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'magic-push/interview-trisq-alpha' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+        'magic-push/trisq' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '97ae100b76931fbc6a27d9cfdd4414c9902264e1',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
